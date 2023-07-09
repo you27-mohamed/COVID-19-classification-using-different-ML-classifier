@@ -1,5 +1,5 @@
 # COVID-19-classification-using-different-ML-&-DL-classifier
-This GitHub repository explores the application of various machine learning classifiers for the classification of COVID-19 cases. The project incorporates two feature extractors, namely Histogram of Oriented Gradients (HOG) and Image-Based Profiling (IBP), along with image pixel data to develop accurate and efficient models that assist in the classification of COVID-19 patients.
+This GitHub repository explores the application of various machine learning classifiers, including pretrained deep learning models, for the classification of COVID-19 cases. The project incorporates popular models such as VGG16, ResNet50, ResNet152, and DenseNet121 to develop accurate and efficient models that assist in the classification of COVID-19 patients.
 
 # Project Overview
 
