@@ -37,6 +37,8 @@ The repository is structured as follows:
 
 **Code/**: Contains Jupyter notebooks or other code files showcasing the implementation and evaluation of different classifiers.
 
+**Decomentation/**: Contains PDF descripe the methodology , results , disscution and concolusion of the project.
+
 **README.md**: Provides an overview of the project, installation instructions, and usage guidelines.
 
 **LICENSE**: Specifies the open-source license governing the use, modification, and distribution of the code.
