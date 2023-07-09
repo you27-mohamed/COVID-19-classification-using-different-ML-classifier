@@ -46,7 +46,7 @@ Contributions to this project are highly encouraged. Users can contribute by add
 
 # License
 
-This project is open-source and licensed under [INSERT LICENSE NAME]. The license file in the repository provides the terms and conditions for using, modifying, and distributing the code.
+This project is open-source and licensed under the MIT License. The license file in the repository provides the terms and conditions for using, modifying, and distributing the code.
 
 By bringing together different machine learning classifiers for COVID-19 classification, this repository aims to contribute to the development of accurate and efficient tools for diagnosing and managing COVID-19 cases. Join us in this collaborative effort to leverage the potential of machine learning in the fight against the pandemic.
 
