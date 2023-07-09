@@ -9,7 +9,7 @@ To achieve robust classification, this project incorporates multiple feature ext
 
 1- **Statistical Features**: Extracts statistical features from clinical data and laboratory tests, capturing relevant information related to COVID-19 cases.
 
-2- **HOG Features**: Utilizes the Histogram of Oriented Gradients (HOG) algorithm to extract features from medical images, such as chest X-rays or CT scans, capturing shape and edge information for classification.
+2- **HOG Features**: Utilizes the Histogram of Oriented Gradients (HOG) algorithm to extract features from medical images, such as chest X-rays , capturing shape and edge information for classification.
 
 3- **IBP Features**: Utilizes Image-Based Profiling (IBP) techniques to extract features from medical images, focusing on spatial patterns, textures, and structural information to aid in classification.
 
