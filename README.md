@@ -21,7 +21,7 @@ In conjunction with the feature extraction methods, the project evaluates seven 
 * Support Vector Machines (SVM)
 * Naive Bayes
 * K-Nearest Neighbors (KNN)
-* Neural Networks
+* XGB model
   
 # Repository Structure
 The repository is structured as follows:
