@@ -1,4 +1,4 @@
-# COVID-19-classification-using-different-ML-classifier
+# COVID-19-classification-using-different-ML-&-DL-classifier
 This GitHub repository explores the application of various machine learning classifiers for the classification of COVID-19 cases. The project incorporates two feature extractors, namely Histogram of Oriented Gradients (HOG) and Image-Based Profiling (IBP), along with image pixel data to develop accurate and efficient models that assist in the classification of COVID-19 patients.
 
 # Project Overview
@@ -22,17 +22,20 @@ In conjunction with the feature extraction methods, the project evaluates seven 
 * Naive Bayes
 * K-Nearest Neighbors (KNN)
 * XGB model
-  
+
+To enhance the classification performance, this project integrates pretrained deep learning models into the workflow. Specifically, it utilizes the following models:
+
+* **VGG16**: A convolutional neural network architecture known for its excellent performance in image classification tasks.
+* **ResNet50**: A deep residual network that can handle deeper architectures with improved accuracy.
+* **ResNet152**: An even deeper residual network with increased complexity and the ability to capture intricate features.
+* **DenseNet121**: A densely connected convolutional network that facilitates information flow and feature reuse, leading to improved performance.
+
 # Repository Structure
 The repository is structured as follows:
 
-**data/**: Contains the raw and processed data files used in the classification models.
+**data/**: Contains the raw used in the classification models.
 
-**models/**: Stores trained machine learning models for COVID-19 classification.
-
-**notebooks/**: Contains Jupyter notebooks or other code files showcasing the implementation and evaluation of different classifiers.
-
-**src/**: Holds the source code for machine learning models and utilities.
+**Code/**: Contains Jupyter notebooks or other code files showcasing the implementation and evaluation of different classifiers.
 
 **README.md**: Provides an overview of the project, installation instructions, and usage guidelines.
 
